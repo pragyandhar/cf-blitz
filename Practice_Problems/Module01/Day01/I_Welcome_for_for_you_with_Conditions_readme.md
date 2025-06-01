@@ -60,6 +60,6 @@ Perfect first step into the world of competitive programming! 🚀
 
 ---
 
-## 🔗 GitHub Repository
+## 🔗 Question Link
 
-> Link: [Your GitHub Link Here]([https://github.com/pragyandhar](https://github.com/pragyandhar/cf-blitz)) 
+> Link: https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/I
