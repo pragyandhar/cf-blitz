@@ -35,18 +35,10 @@ _May the test cases tremble before your logic._
 
 ## 🏁 Goals
 
-- [ ] Solve 100+ Codeforces problems by [Your Goal Date]  
+- [ ] Solve 100+ Codeforces problems
 - [ ] Maintain accuracy > 90%  
 - [ ] Solve a full Div.2 contest within the time limit  
 - [ ] Avoid WA on pretest 2 😅  
-
----
-
-## 📌 Notes
-
-- All solutions are written during practice or virtual contests.  
-- Naming conventions follow contest/problem code where possible (e.g., `A_Sum.java`, `B_Bricks.cpp`).  
-- Feel free to fork/clone and use the templates.  
 
 ---
 
