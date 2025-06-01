@@ -32,17 +32,6 @@ Given two integers **A** and **B**, print:
 
 ---
 
-## 💻 Solution
-
-Here is a simple implementation of the solution in **Python**:
-
-```python
-A, B = map(int, input().split())
-print("Yes" if A >= B else "No")
-```
-
----
-
 ## 🛠 Tech Stack
 
 - Language: Python 3
@@ -73,4 +62,4 @@ Perfect first step into the world of competitive programming! 🚀
 
 ## 🔗 GitHub Repository
 
-> Link: [Your GitHub Link Here](https://github.com/pragyandhar) _(Replace with the actual repo URL)_
+> Link: [Your GitHub Link Here]([https://github.com/pragyandhar](https://github.com/pragyandhar/cf-blitz)) 
