@@ -108,7 +108,6 @@ void solve() {
     } else {
         cout << "NO" << endl;
     }
-    return 0;
 }
 
 // Main Driver
